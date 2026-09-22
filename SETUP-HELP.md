@@ -8,7 +8,7 @@ Everything you need to get **Pickaxe on Koke** running, step by step. If somethi
 
 ## Install and start
 
-1. Download **`Pickaxe-on-Koke-v2.18.1.mcaddon`** from the [Releases page](../../releases) - or directly from this repository.
+1. Download **`Pickaxe-on-Koke-v2.18.2.mcaddon`** from the [Releases page](../../releases) - or directly from this repository.
 2. Open the file (double-click on Windows, or tap it on a phone/tablet). Minecraft starts and shows *Import started* / *Import successful*.
 3. Create a new world or edit an existing one and open **Add-Ons**.
 4. Under **Behavior Packs** activate this add-on's pack, then under **Resource Packs** activate the matching resource pack.

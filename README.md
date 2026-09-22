@@ -18,7 +18,7 @@ Craft powerful tools that break whole areas at once. Everything is craftable in 
 
 ## Download
 
-Download **`Pickaxe-on-Koke-v2.18.1.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
+Download **`Pickaxe-on-Koke-v2.18.2.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
 
 1. Create or edit a world and open **Add-Ons**.
 2. Activate the **Behavior Pack** and the **Resource Pack** of this add-on.

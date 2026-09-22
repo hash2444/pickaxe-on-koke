@@ -13,15 +13,16 @@ Craft powerful tools that break whole areas at once. Everything is craftable in 
 - **Rainbow Pickaxe** - mines a 3x3x3 cube
 - **Lumberjack Axe** - fells the whole tree
 - **Tunnel Bore** - bores a tunnel in the direction you are looking
-- Crafting can be switched per tool from a world dynamic property; freshly crafted items of a disabled tool are removed
+- Chests, furnaces, spawners, portals, command blocks and bedrock are never destroyed - every block is re-checked right before it breaks
+- Breaking is spread across ticks (max 24 blocks per tick) so large areas do not lag the world
 
 ## Download
 
-Download **`Pickaxe-on-Koke-v2.17.0.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
+Download **`Pickaxe-on-Koke-v2.18.0.mcaddon`** from the [releases page](../../releases) (or straight from this repository) and open it - Minecraft imports the packs.
 
 1. Create or edit a world and open **Add-Ons**.
 2. Activate the **Behavior Pack** and the **Resource Pack** of this add-on.
-3. Requires Minecraft Bedrock **1.20.70 or newer**.
+3. Requires Minecraft Bedrock **1.21.110 or newer**.
 
 If items are missing in your world, check the world's *Experiments* page and enable *Beta APIs* and *Holiday Creator Features* as a fallback.
 

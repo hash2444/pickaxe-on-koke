@@ -1,8 +1,14 @@
+<div align="center">
+
 # Pickaxe on Koke
 
-> Five mining tools for Bedrock: 3x3 excavator, vein miner, rainbow pickaxe, lumberjack axe and tunnel bore.
+**Five mining tools for Bedrock: 3x3 excavator, vein miner, rainbow pickaxe, lumberjack axe and tunnel bore.**
 
 [![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
+</div>
+
+---
 
 Craft powerful tools that break whole areas at once. Everything is craftable in a crafting table; the tools are unbreakable-ish (high durability) and glow with a custom look.
 
@@ -36,8 +42,11 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
-![preview](pickaxe-on-koke.png)
+<div align="center">
 
+<img src="pickaxe-on-koke.png" alt="Pickaxe on Koke" width="760">
+
+</div>
 ---
 
 Made by **dev:#2444** - [github.com/hash2444](https://github.com/hash2444) - [pickaxe-on-koke](https://github.com/hash2444/pickaxe-on-koke)
